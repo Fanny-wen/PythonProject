@@ -4,10 +4,10 @@
 2.验证这些数据到底是什么类型 --检测数据类型 --type(数据)
 """
 
-# int --整型，就是小数
+# int --整型
 num1 = 1
 
-# float --浮点型，
+# float --浮点型，，就是小数
 num2 = 1.1
 print(type(num1))
 print(type(num2))
