@@ -7,6 +7,7 @@ print(float(str1))  # 10.0
 
 # 2. str() --将数据转换成字符串型
 
+
 print(type(str(num1)))  # str
 
 # 3. tuple() --将一个序列转换成元组
@@ -23,6 +24,7 @@ str2 = '1'
 str3 = '1.1'
 str4 = '(100,200,400)'
 str5 = '[1,2,3,5]'
+print(eval(str2))
 print(type(eval(str2)))
 print(type(eval(str3)))
 print(type(eval(str4)))

@@ -15,25 +15,31 @@ print(type(num2))
 # str --字符串，特点：数据都要带引号
 a = 'i‘m str'
 print(type(a))
+print(a)
 
 # bool --布尔型，通常判断使用，布尔型有两个取值 True和 False
 b = True
 c = False
 print(type(b))
 print(type(c))
+print(b)
 
 # list --列表
 d = [10, 20, 30]
 print(type(d))
+print(d)
 
 # tuple --元组
 e = (10, 20, 30)
 print(type(e))
+print(e)
 
 # set --集合
 f = {10, 20, 30}
 print(type(f))
+print(f)
 
 # dict --字典 --键值对
 g = {'name': 'TOM', 'age': 18}
 print(type(g))
+print(g)
