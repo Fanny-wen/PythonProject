@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+This repository is where I keep my Pyhton basics files
