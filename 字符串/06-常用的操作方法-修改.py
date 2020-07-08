@@ -4,7 +4,7 @@
 
 mystr = "hello world and itcast and itheima and Python"
 
-newstr = mystr.replace('and', 'or', 10) # 替换次数如果超过出现的次数，表示替换所有这个字串
+newstr = mystr.replace('and', 'or', 10)  # 替换次数如果超过出现的次数，表示替换所有这个字串
 
 print(newstr)
 print('---------------------------')
@@ -18,6 +18,3 @@ print('---------------------------')
 
 new_str = '...'.join(mylist)
 print(new_str)
-
-
-
