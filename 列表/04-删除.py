@@ -36,5 +36,5 @@ print('===============')
 
 # clear():
 
-name_list.remove()
+name_list.clear()
 print(name_list)

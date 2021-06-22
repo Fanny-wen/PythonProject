@@ -1,6 +1,6 @@
 # 修改
 
-# 1.replace(久串，新串，替换次数) 替换  返回一个新的字符串,不会改变原有字符串---说明字符串是不可变数据类型
+# 1.replace(旧串，新串，替换次数) 替换  返回一个新的字符串,不会改变原有字符串---说明字符串是不可变数据类型
 
 mystr = "hello world and itcast and itheima and Python"
 
