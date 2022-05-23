@@ -1,5 +1,6 @@
 import turtle  # 引入turtle函数库
 
+
 def drawsnake(radius, angle, length):
     turtle.seth(-40)
     for i in range(length):
@@ -9,6 +10,8 @@ def drawsnake(radius, angle, length):
     turtle.forward(40)
     turtle.circle(16, 180)
     turtle.forward(40)
+
+
 turtle.setup(1000, 500)
 turtle.penup()
 turtle.forward(-400)
